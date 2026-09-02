@@ -7,6 +7,16 @@ This code snippet develops a reproducible workflow for analyzing 25 school campu
 ## Workflow
 <img width="655" height="706" alt="image" src="https://github.com/user-attachments/assets/4f59f09d-5b1c-4c89-bc24-e6aac9309652" />
 
+## Tools Used
+1. Google Colab
+2. OpenStreetMap
+3. ESRI GIS
+4. NAIP (National Agriculture Imagery Program)
+5. Microsoft Planetary Computer and STAC API
+6. Groq for Qwen
+7. Google Maps and official school websites for reference validation
+8. Google Earth Pro (Historical Imagery feature)
+
 ## Setup and Dependencies (HOW TO REPRODUCE)
 The notebooks in this repo were run on Google Colab. Here is how you can reproduce it:-
 
