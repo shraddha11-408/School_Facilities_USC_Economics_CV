@@ -1,0 +1,11 @@
+folium
+groq
+ipywidgets
+matplotlib
+numpy
+pandas
+Pillow
+planetary-computer
+pyproj
+pystac-client
+rasterio
